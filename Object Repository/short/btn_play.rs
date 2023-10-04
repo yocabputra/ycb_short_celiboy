@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_play</name>
+   <tag></tag>
+   <elementGuidId>79c87e10-73c4-4a5d-b213-7d57d0fd44c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-shorts[1]/div[3]/div[2]/ytd-reel-video-renderer[1]/div[2]/ytd-player[1]/div[1]/div[1]/div[5]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
